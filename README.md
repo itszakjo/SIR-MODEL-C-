@@ -1,4 +1,4 @@
-# SIR-MODEL-C++
+# SIR-MODEL-C++ FOR DISESAE PREDICTION
 This is an implementation of the SIR MODEL in C++ 
 
 
